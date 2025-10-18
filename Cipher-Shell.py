@@ -1,5 +1,5 @@
 # The Vigenère cipher
-# Code by Md Al-Amin
+# Code by Md. Al-Amin
 
 import string
 import sys 
@@ -173,4 +173,5 @@ def main():
         # --- End of Logic ---
 
 if __name__ == "__main__":
+
     main()
